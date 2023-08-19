@@ -1,0 +1,22 @@
+@import './base.css';
+
+/* body {
+    width: 100vw;
+    height: 100vh;
+} */
+
+#app {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* 渐隐 */
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+}
