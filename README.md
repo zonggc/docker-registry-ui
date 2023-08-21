@@ -16,7 +16,7 @@ npm install
 
 ### 启动项目
 ```sh
-npm npm run dev
+npm run dev
 ```
 
 ### 打包
@@ -27,5 +27,5 @@ VITE_API_BASE_URL = "<docker-registry> production url"
 
 #### 构建
 ```sh
-npm npm run build
+npm run build
 ```
